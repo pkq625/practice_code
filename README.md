@@ -1,2 +1,2 @@
 # practice_code
-this is an ordinary student's practice code.
+菜🐔本🐔，请轻喷qwq
