@@ -1,4 +1,3 @@
-# Commented out IPython magic to ensure Python compatibility.
 # %tensorflow_version 1.x
 import tensorflow as tf
 device_name = tf.test.gpu_device_name()
